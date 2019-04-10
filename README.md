@@ -22,7 +22,8 @@ The Projected is hosted on the link.
 
 ## Run locally on system
 
-1.clone the repository `https://github.com/vermasonu791/OldPhoneKeyPad.git`
+1.clone the repository `https://github.com/vermasonu791/OldPhoneKeyPad.git`.
+
 2.go to directory open file index.html in any browser.
 
 
