@@ -20,6 +20,12 @@ The Projected is hosted on the link.
 [Old Phone Key Pad](https://choosealicense.com/licenses/mit/)
 
 
+## Run locally on system
+
+1.clone the repository `https://github.com/vermasonu791/OldPhoneKeyPad.git`
+2.go to directory open file index.html in any browser.
+
+
 
 
 
