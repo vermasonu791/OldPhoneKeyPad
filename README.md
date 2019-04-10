@@ -8,7 +8,7 @@ keys.
 
 2.if you click any key it will display chracter,numbers or alphabet according to timedelay.
 
-3.if user pressed key for long time and onmouseup if time difference is greater 0.5 so it will display numeric value.
+3.if user pressed key for long time and onmouseup if time difference is greater 500ms so it will display numeric value.
 
 4.if user click on the key and timediff is greater than timedelay or lastkey not equal to current key so it will display first character from array.
 
