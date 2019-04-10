@@ -10,6 +10,10 @@ keys.
 
 3.if user pressed key for long time and time is greater then timedelay then print numeric value.
 
+4.if user click on the key and timediff is greater than timedelay or lastkey not equal to current key so it will display first character from array.
+
+5.if user click the same key before the time delay it will display the letters according to index of array.
+
 
 ## Host
 The Projected is hosted on the link.
