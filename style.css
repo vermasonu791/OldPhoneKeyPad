@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: border-box;
+}
+body{
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#phone button{
+    height: 50px;
+    width: 75px;
+    outline: 0;
+}
+#phone button:focus{
+    background-color: black;
+    color: #fff;
+    outline: 0;
+
+}
+#phone button span{
+    display: block;
+    margin-top: 5px;
+    font-size: 10px;
+}
+#result{
+    width: 229px;
+    height: 30px;
+    
+}
