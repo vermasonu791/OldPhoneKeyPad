@@ -17,7 +17,7 @@ keys.
 
 ## Host
 The Projected is hosted on the link.
-[Old Phone Key Pad](https://choosealicense.com/licenses/mit/)
+[Old Phone Key Pad](https://vermasonu791.github.io/OldPhoneKeyPad/)
 
 
 ## Run locally on system
